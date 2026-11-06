@@ -1,0 +1,4 @@
+pandas>=2.2
+numpy>=1.26
+jupyterlab>=4.0
+ipykernel>=6.29
